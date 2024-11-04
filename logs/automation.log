@@ -1,0 +1,425 @@
+10:42:27:280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:322 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:42:27:323 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:325 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:327 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:327 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:330 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:336 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+10:42:27:351 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+10:42:27:354 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:355 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:42:27:357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:357 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:358 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:358 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:361 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:361 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:363 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:363 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:366 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:366 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:367 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:367 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:369 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:42:27:372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+10:42:27:373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:42:27:388 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\AppData\Local\Temp\testng-eclipse--673492290\testng-customsuite.xml
+
+10:42:27:411 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+10:42:34:672 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+10:42:34:782 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+10:42:37:819 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+10:42:39:832 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+10:42:59:906 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+10:43:01:954 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+10:43:02:879 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5c748168: 188 ms
+10:43:02:879 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6441c486: 0 ms
+10:43:02:895 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@76d05cc9: 16 ms
+10:43:02:911 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@47547132: 16 ms
+10:43:02:927 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@21a66d45: 16 ms
+10:43:02:927 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1f966492: 0 ms
+11:41:36:053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\testng.xml
+
+11:41:47:579 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:41:47:721 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:41:50:865 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:41:52:875 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:42:13:720 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:42:15:811 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:47:00:910 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\crossbrowserParallelTesting.xml
+
+11:47:10:313 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:47:10:522 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:47:13:937 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:47:15:950 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:47:36:574 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:47:38:664 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:47:49:335 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:47:49:589 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:47:52:809 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:47:54:819 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:48:15:886 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:48:18:025 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:48:37:956 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:48:38:298 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:48:41:827 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:48:43:838 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:49:04:474 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:49:06:517 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:54:17:094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\crossbrowserParallelTesting.xml
+
+11:54:30:465 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:54:32:275 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:54:35:352 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:54:35:614 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:54:35:870 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:54:37:879 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:54:39:055 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:54:41:057 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:54:41:085 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:54:41:458 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:54:45:229 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:54:47:250 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:55:01:103 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:55:03:175 [TestNG-tests-1] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:55:05:980 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:55:07:734 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:55:08:065 [TestNG-tests-2] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:55:09:794 [TestNG-tests-3] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+12:18:27:551 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+12:18:37:868 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+12:18:38:005 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+12:18:43:833 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+12:18:45:838 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+12:19:06:755 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+12:19:08:830 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+08:14:31:594 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+08:14:40:408 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+08:14:40:533 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+08:14:43:536 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+08:14:45:562 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+08:15:07:566 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+08:15:09:632 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+08:15:17:042 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+08:15:25:009 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+08:15:25:011 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+08:16:00:685 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+08:16:08:198 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+08:16:16:486 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+08:16:16:486 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+08:17:04:452 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+08:17:11:514 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+08:17:11:628 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+08:17:14:633 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+08:17:16:639 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+08:17:36:955 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+08:17:39:004 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+08:17:45:992 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+08:17:53:945 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+08:17:53:945 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+08:18:44:281 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+08:18:44:329 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+08:18:44:332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:332 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:334 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:334 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:336 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:336 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:345 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+08:18:44:359 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+08:18:44:362 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:363 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:364 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:365 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:367 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:368 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:371 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:371 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:372 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:373 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:374 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:376 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:18:44:377 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:18:44:385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\AppData\Local\Temp\testng-eclipse-264409225\testng-customsuite.xml
+
+08:18:44:412 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+08:18:44:927 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@269f4bad: 240 ms
+08:18:44:945 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1c80e49b: 17 ms
+08:18:44:957 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@62fad19: 12 ms
+08:18:44:972 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@665e9289: 15 ms
+08:18:44:984 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@165b2f7f: 12 ms
+08:18:44:984 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5536379e: 0 ms
+08:19:09:348 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+08:19:16:415 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+08:19:16:557 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+08:19:19:567 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+08:19:21:594 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+08:19:41:616 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+08:19:43:663 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+08:19:51:037 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+08:20:00:937 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+08:20:00:937 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+22:30:38:541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+22:34:29:959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+22:34:38:101 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+22:34:38:225 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+22:34:41:412 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+22:34:43:415 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+22:35:06:275 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+22:35:08:380 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+22:35:17:190 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+22:35:28:575 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+22:35:28:575 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+23:06:40:304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+23:10:37:706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+23:24:01:660 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+23:25:11:800 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+23:25:20:677 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+23:25:45:029 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+23:25:45:045 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+23:26:08:804 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+23:26:08:826 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+23:26:32:521 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+23:26:32:536 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+23:26:56:518 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+23:26:56:524 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+23:27:11:212 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+08:19:47:220 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\grouping.xml
+
+08:22:54:509 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\grouping.xml
+
+08:23:03:838 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+08:23:04:028 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+08:23:07:073 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+08:23:09:087 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+08:23:29:529 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+08:23:31:590 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+08:23:38:309 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+08:23:48:220 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+08:23:48:220 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+13:30:48:449 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\grouping.xml
+
+13:30:57:711 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+13:30:58:014 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+13:31:01:300 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+13:31:03:318 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+13:31:23:950 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+13:31:26:035 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+13:31:34:403 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+13:31:44:732 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+13:31:44:732 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+13:34:58:943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\grouping.xml
+
+13:35:09:272 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+13:35:09:434 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+13:35:13:257 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+13:35:15:265 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+13:35:36:199 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+13:35:38:256 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+13:35:46:283 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+13:35:57:779 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+13:35:57:779 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+13:49:26:925 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\grouping.xml
+
+13:49:35:329 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+13:49:35:513 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+13:49:38:779 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+13:49:40:787 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+13:50:01:347 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+13:50:03:439 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+13:50:11:139 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+13:55:26:561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+13:55:36:927 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+13:56:01:482 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+13:56:01:529 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+13:56:25:605 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+13:56:25:621 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+13:56:49:735 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+13:56:49:762 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+13:57:13:823 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+13:57:13:854 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+13:57:28:963 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:01:06:932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+14:01:14:962 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+14:01:15:140 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+14:01:18:321 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+14:01:20:334 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+14:01:41:022 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+14:01:43:076 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+14:01:50:760 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+14:02:19:999 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:02:45:681 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:02:45:696 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:03:09:799 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:03:09:815 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:03:33:958 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:03:33:973 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:03:57:956 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:03:57:974 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:04:12:996 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:05:05:495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\test-output\testng-failed.xml
+
+14:05:16:843 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:05:42:628 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:05:42:653 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:06:06:769 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:06:06:801 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:06:30:962 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:06:31:022 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:06:54:990 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+14:06:54:998 [main] INFO  testCase.TC003_LoginDDT - ************** Starting TC003 - LOGIN DDT--****************
+14:07:09:934 [main] INFO  testCase.TC003_LoginDDT - ************** Finished TC003 - LOGIN DDT--****************
+16:02:53:352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+16:03:00:406 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+16:03:00:634 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+16:03:03:655 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+16:03:05:663 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+16:03:25:844 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+16:03:27:893 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+16:03:35:161 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+16:03:45:268 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+16:03:45:268 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+16:05:36:497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+16:05:44:009 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+16:05:44:174 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+16:05:47:189 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+16:05:49:198 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+16:06:09:556 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+16:06:11:601 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+16:06:19:000 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+16:06:29:008 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+16:06:29:008 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+16:09:08:204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+16:09:16:205 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+16:09:16:389 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+16:09:19:411 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+16:09:21:421 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+16:09:42:344 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+16:09:44:397 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+16:09:51:961 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+16:10:01:952 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+16:10:01:952 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+11:31:35:419 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+11:31:46:582 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:31:46:746 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:31:49:785 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:31:51:793 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:32:12:164 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:32:14:208 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:32:21:223 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+11:32:32:153 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+11:32:32:153 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+11:33:26:611 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+11:33:34:593 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:33:34:771 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:33:37:803 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:33:39:813 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:34:00:138 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:34:02:185 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:34:09:262 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+11:34:19:205 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+11:34:19:205 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+11:39:02:119 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+11:39:10:207 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:39:10:408 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:39:13:466 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:39:15:479 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:39:35:653 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:39:37:700 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:39:44:706 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+11:39:54:644 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+11:39:54:644 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+11:40:30:983 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+11:40:38:326 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:40:38:549 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:40:41:606 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:40:43:634 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:41:03:886 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:41:05:933 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:41:13:245 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+11:41:23:028 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+11:41:23:028 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+11:43:06:198 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\LENOVO\eclipse-workspace\ProjectHybridFramework\master.xml
+
+11:43:14:042 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+11:43:14:202 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+11:43:17:219 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+11:43:19:221 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+11:43:39:378 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+11:43:41:425 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+11:43:48:442 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+11:43:58:405 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+11:43:58:405 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
+12:05:06:483 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Starting Verify account ************
+12:05:06:675 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on MyAccount************
+12:05:09:687 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Click on Register************
+12:05:11:697 [main] INFO  testCase.TC001_AccountRegistrationTest - **********providing details************
+12:05:32:270 [main] INFO  testCase.TC001_AccountRegistrationTest - **********Validating message************
+12:05:34:331 [main] INFO  testCase.TC001_AccountRegistrationTest - ----------------------Test Finished--------------------
+12:05:41:761 [main] INFO  testCase.TC002_LoginTest - ------------------ Starting TC_002_LoginTest--------------------
+12:05:51:693 [main] INFO  testCase.TC002_LoginTest - *************Finished*****************
+12:05:51:693 [main] INFO  testCase.TC002_LoginTest - ***************Finished TC_002_LoginTest*************************
